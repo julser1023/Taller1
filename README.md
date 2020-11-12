@@ -1,3 +1,3 @@
 # Taller1
-Primer repositorio
-Se Intenta cada dia ser mejor
+Primer repositorio/
+Se intenta cada dia ser mejor
